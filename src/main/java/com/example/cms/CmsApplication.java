@@ -13,6 +13,6 @@ public class CmsApplication  {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CmsApplication.class, args);
-		LOG.info("APPLICATION IS RUNNING");//testtest
+		LOG.info("APPLICATION IS RUNNING");//testtt
 	}
 }
